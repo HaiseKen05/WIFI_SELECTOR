@@ -18,7 +18,7 @@ const int daylightOffset_sec = 3600;      // Daylight savings offset in seconds
 const char *time_zone = "CET-1CEST,M3.5.0,M10.5.0/3";
 
 // Location Information
-const char *location = "Philippines, Cebu"; // Enter your location here
+const char *location = " "; // Enter your location here
 
 // Buffers to store last displayed date and time
 char lastDisplayedDate[20] = " ";
